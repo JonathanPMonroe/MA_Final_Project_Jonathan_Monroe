@@ -54,7 +54,7 @@ Exported figures referenced in the final write-up.
 ## How to Run
 
 Recommended environment:
-- Python 3.x
+- Python
 - PySpark + Spark (big-memory configuration recommended)
 - Common scientific stack: `pandas`, `numpy`, `matplotlib` (+ any notebook-specific libs)
 
