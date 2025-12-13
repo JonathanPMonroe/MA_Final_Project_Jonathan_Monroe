@@ -1,4 +1,4 @@
-# University of Chicago — Final Project  
+# University of Chicago — Final Project Replication Materials
 **Jonathan Monroe**
 
 This repository contains the final project deliverables for my Community Notes auditing work, focused on **collective intelligence diagnostics** (e.g., decentralization, independence, topical diversity, and aggregation consistency) using the public X (Twitter) Community Notes data.
