@@ -33,7 +33,7 @@ Primary analysis notebooks (final versions).
 
 | Notebook | What it does |
 |----------|--------------|
-| `Topic Modeling.ipynb` | Topic modeling pipeline (baseline) |
+| `Topic_Modeling_1.ipynb` | Topic modeling pipeline (baseline) |
 | `Topic_Modeling_2.ipynb` | Topic modeling iteration / refinements |
 | `Topic_Modeling_3.ipynb` | Final topic → meta-topic workflow + downstream-ready outputs |
 | `Independence Modeling.ipynb` | Independence diagnostic (rater behavior similarity / dependence) |
